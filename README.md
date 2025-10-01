@@ -11,4 +11,15 @@
  <img alt="YOUR-ALT-TEXT" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fimages%2F8iAb9yLrT.jpg&f=1&nofb=1&ipt=6dfb33e6e6d0d4454c89e639eed580058f3ce306ccad01ef140660a7825de15d">
 </picture>
 
+<details>
+<summary>My top languages</summary>
+
+| Rank |Languages |
+|-----:|---------------|
+|     1| Javascript              |
+|     2|         CSS      |
+|     3|           html    |
+
+
+</details>
 
