@@ -25,5 +25,6 @@
 
 ---
 > it's all a game to me.
+> everyday is a new beginning
 
 
